@@ -1,0 +1,18 @@
+{
+  "name": "marxist-paper-research",
+  "version": "0.1.0",
+  "description": "Research, draft, revise, and audit Chinese Marxist theory journal papers with verified literature and a clear core argument.",
+  "author": {
+    "name": "Codex"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "马理论论文研究助手",
+    "shortDescription": "检索核验C刊文献，提炼小切口并按学术规范写作。",
+    "longDescription": "面向马克思主义理论论文的选题、文献、框架、写作和终审，区分CSSCI论文、权威理论文章、政策文件和经典原著，检查创新重合、脚注及参考文献。",
+    "developerName": "Codex",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "使用 $marxist-paper-research 检索并核验相关C刊文献，判断论文创新性，形成清晰主线并按学术规范修改。"
+  }
+}
