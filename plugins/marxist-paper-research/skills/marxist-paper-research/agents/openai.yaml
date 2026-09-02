@@ -1,0 +1,6 @@
+interface:
+  display_name: "马理论论文研究助手"
+  short_description: "检索核验C刊文献，提炼小切口并按学术规范完成论文写作"
+  default_prompt: "Use $marxist-paper-research to research, structure, and revise my Marxist theory paper with verified literature."
+policy:
+  allow_implicit_invocation: true
